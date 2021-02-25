@@ -9,7 +9,7 @@ let main = document.querySelector('.main');
 
     document.addEventListener('DOMContentLoaded',()=>{
         main.appendChild(home())
-        window.location.hash = '/home'
+        window.location.hash = '#/home'
     })
 
 
