@@ -18,7 +18,7 @@ const router = async(route)=>{
     main.innerHTML = ''
     
     switch (route) {
-        case '#/':
+        case '#/home':
            
             return main.appendChild(home())
             
@@ -42,6 +42,7 @@ const router = async(route)=>{
             
     }
 }
+
 export {
     router
 }

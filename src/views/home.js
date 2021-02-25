@@ -8,7 +8,7 @@ export const  home = ()=> {
 <div class="col s12 m7">
   <div class="card">
     <div class="card-image">
-      <img src="../src/assets/come on yes GIF by Liverpool FC.gif">
+      <img src="./assets/come on yes GIF by Liverpool FC.gif">
 
       <span class="card-title">Card Title</span>
     </div>
@@ -26,7 +26,7 @@ export const  home = ()=> {
 <div class="col s12 m7">
   <div class="card">
     <div class="card-image ">
-      <img class="responsive-img circle"src="../src/assets/come on yes GIF by Liverpool FC.gif">
+      <img class="responsive-img circle"src="./assets/come on yes GIF by Liverpool FC.gif">
       <span class="card-title">HOME</span>
     </div>
     <div class="card-content">

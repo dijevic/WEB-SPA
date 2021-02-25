@@ -4,7 +4,7 @@ export const contacto = (nombre)=>{
     const html = `
     <h1 class="h1">any trouble ? contact us !</h1>
     <li class="collection-item avatar">
-      <img src="../src/assets/come on yes GIF by Liverpool FC.gif" alt="avatar" class="circle">
+      <img src="./assets/come on yes GIF by Liverpool FC.gif" alt="avatar" class="circle">
       <span class="title">${nombre}</span>
       <p>agente de ventas <br>
         numero : 911685213647

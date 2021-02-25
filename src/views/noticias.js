@@ -6,7 +6,7 @@ export const noticias = ()=>{
 <div class="row">
 <div class="col s12 m7">
  <div class="card">
-   <div class="card-image"><img src="../src/assets/ken-cheung-MKv9gQHpICM-unsplash.jpg" alt="">
+   <div class="card-image"><img src="./assets/ken-cheung-MKv9gQHpICM-unsplash.jpg" alt="">
 
      <span class="card-title">Card Title</span>
    </div>
@@ -24,7 +24,7 @@ export const noticias = ()=>{
 <div class="col s12 m7">
  <div class="card">
    <div class="card-image ">
-   <img src="../src/assets/ken-cheung-MKv9gQHpICM-unsplash.jpg" alt="">
+   <img src="./assets/ken-cheung-MKv9gQHpICM-unsplash.jpg" alt="">
      <span class="card-title">ey!</span>
    </div>
    <div class="card-content">
